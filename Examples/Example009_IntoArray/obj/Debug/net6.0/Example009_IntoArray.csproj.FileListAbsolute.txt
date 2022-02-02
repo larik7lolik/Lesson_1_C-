@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.exe
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.deps.json
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.runtimeconfig.json
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.dll
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\bin\Debug\net6.0\ref\Example009_IntoArray.dll
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.pdb
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.AssemblyInfo.cs
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.dll
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\ref\Example009_IntoArray.dll
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.pdb
+C:\Users\user\Desktop\Lesson_1_1_C#\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.genruntimeconfig.cache
